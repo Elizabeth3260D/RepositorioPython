@@ -2,6 +2,7 @@ print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 print("OBTENCION DE AREA Y PERIMETROS")
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 print('Hola soy un cambio')
+print()
 
 print('')
 print('Opiones:')
